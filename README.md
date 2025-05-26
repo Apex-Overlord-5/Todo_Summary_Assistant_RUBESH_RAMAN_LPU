@@ -81,7 +81,7 @@ Sign in at Supabase.
 
 👤 Author
 All rights reserved by Rubesh Raman
-Email: rubeshraman@gmail.com
+Email: rubesh.raman@gmail.com
 GitHub: Apex-Overlord-5
 
 
