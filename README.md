@@ -76,7 +76,7 @@ Generate an API key and add it to your .env as COHERE_API_KEY.
 ⚙️ Supabase Setup
 Sign in at Supabase.
 
-Create a new project and get your project URL and API key.
+
 
 
 👤 Author
